@@ -1,6 +1,6 @@
 Package: uSORT
 Title: uSORT: A self-refining ordering pipeline for gene selection
-Version: 1.6.0
+Version: 1.7.0
 Author: Mai Chan Lau, Hao Chen, Jinmiao Chen
 Description: This package is designed to uncover the intrinsic cell
         progression path from single-cell RNA-seq data. It incorporates
